@@ -1,0 +1,7 @@
+adafruit_ads1x15==1.0.2
+Adafruit_Blinka==7.0.2
+adafruit_circuitpython_ads1x15==2.2.12
+adafruit_circuitpython_dht==3.7.1
+adafruit_dht==1.4.0
+board==1.0
+plotext==4.2.0
